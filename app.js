@@ -4,7 +4,7 @@ var db_usuarios_inicial = {
         {
             "id": 1,
             "nome": "Vitor Barcelos",
-            "senha": "Belo Horizonte",
+            "senha": "12345678",
             "email": "barcelosvitor@email.com",
             "telefone": "3197586222"
         },
@@ -18,56 +18,56 @@ var db_usuarios_inicial = {
         {
             "id": 3,
             "nome": "João Rodrigues",
-            "senha": "Rio de Janeiro",
+            "senha": "852369741",
             "email": "rodriguesjoao@hotmail.com",
             "telefone": "21 85693366"
         },
         {
             "id": 4,
             "nome": "Lara Cristina",
-            "senha": "Betim",
+            "senha": "456321789",
             "email": "criss@email.com",
             "telefone": "3456862221"
         },
         {
             "id": 5,
             "nome": "Caio Barcelos",
-            "senha": "São Paulo",
+            "senha": "856932478",
             "email": "caio@barcelos.net",
             "telefone": "36859633"
         },
         {
             "id": 6,
             "nome": "Geraldo Almeida",
-            "senha": "Rio de Janeiro",
+            "senha": "159263478",
             "email": "almeidageraldo@email.net",
             "telefone": "1-477-935-8478"
         },
         {
             "id": 7,
             "nome": "Igor Marcos",
-            "senha": "Belo Horizonte",
+            "senha": "753698214",
             "email": "igormarcos@email.com",
             "telefone": "37 125689333"
         },
         {
             "id": 8,
             "nome": "Nicolau Lima",
-            "senha": "Belo Horizonte",
+            "senha": "917328465",
             "email": "lima.nicolau@email.com",
             "telefone": "31 98567785"
         },
         {
             "id": 9,
             "nome": "Brenda Ramos",
-            "senha": "Betim",
+            "senha": "426853179",
             "email": "Chaim_McDermott@dana.io",
             "telefone": "31966852233"
         },
         {
             "id": 10,
             "nome": "Bruno Reis Costa",
-            "senha": "São Paulo",
+            "senha": "856214739",
             "email": "reiscosta@email.com",
             "telefone": "11 13265598"
         }
